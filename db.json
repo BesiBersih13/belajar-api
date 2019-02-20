@@ -1,0 +1,124 @@
+{
+  "mahasiswa":
+    [{
+      "id": 1,
+      "name": "Holt Harness",
+      "gender": "Male"
+    }, {
+      "id": 2,
+      "name": "Welsh Blakeway",
+      "gender": "Male"
+    }, {
+      "id": 3,
+      "name": "Poppy Godsal",
+      "gender": "Female"
+    }, {
+      "id": 4,
+      "name": "Killian Millery",
+      "gender": "Male"
+    }, {
+      "id": 5,
+      "name": "Rooney Argent",
+      "gender": "Male"
+    }, {
+      "id": 6,
+      "name": "Martyn Iacopetti",
+      "gender": "Male"
+    }, {
+      "id": 7,
+      "name": "Ardath Manning",
+      "gender": "Female"
+    }, {
+      "id": 8,
+      "name": "Jayne Vegas",
+      "gender": "Female"
+    }, {
+      "id": 9,
+      "name": "Kellsie Rogister",
+      "gender": "Female"
+    }, {
+      "id": 10,
+      "name": "Hilda Duckinfield",
+      "gender": "Female"
+    }, {
+      "id": 11,
+      "name": "Galen Simner",
+      "gender": "Male"
+    }, {
+      "id": 12,
+      "name": "Anallese Alejandri",
+      "gender": "Female"
+    }, {
+      "id": 13,
+      "name": "Willabella Mattei",
+      "gender": "Female"
+    }, {
+      "id": 14,
+      "name": "Blancha Lackner",
+      "gender": "Female"
+    }, {
+      "id": 15,
+      "name": "Nicolis Philipsohn",
+      "gender": "Male"
+    }, {
+      "id": 16,
+      "name": "Aldous Rossoni",
+      "gender": "Male"
+    }, {
+      "id": 17,
+      "name": "Tobin Jakuszewski",
+      "gender": "Male"
+    }, {
+      "id": 18,
+      "name": "Cole Nendick",
+      "gender": "Male"
+    }, {
+      "id": 19,
+      "name": "Selena Richemont",
+      "gender": "Female"
+    }, {
+      "id": 20,
+      "name": "Gaven Pollastrone",
+      "gender": "Male"
+    }, {
+      "id": 21,
+      "name": "Christoffer Garlee",
+      "gender": "Male"
+    }, {
+      "id": 22,
+      "name": "Rubi Dummer",
+      "gender": "Female"
+    }, {
+      "id": 23,
+      "name": "Gussi Dawby",
+      "gender": "Female"
+    }, {
+      "id": 24,
+      "name": "Jeremiah Esland",
+      "gender": "Male"
+    }, {
+      "id": 25,
+      "name": "Roseanna Paget",
+      "gender": "Female"
+    }, {
+      "id": 26,
+      "name": "Geno Cordeix",
+      "gender": "Male"
+    }, {
+      "id": 27,
+      "name": "Ninnetta Leavry",
+      "gender": "Female"
+    }, {
+      "id": 28,
+      "name": "Georgine Mapletoft",
+      "gender": "Female"
+    }, {
+      "id": 29,
+      "name": "Liva Philippe",
+      "gender": "Female"
+    }, {
+      "id": 30,
+      "name": "Thornie Barrows",
+      "gender": "Male"
+    }]
+}
